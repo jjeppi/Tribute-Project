@@ -16,5 +16,20 @@ h1 {
   color: darkgreen;
   font-family: 'Marck Script', cursive;
   font-size: 60px;
-  text-align:
 }
+h2 {
+  color: MidnightBlue;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  font-size: 70px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    max-height: 50%;
+}
+img {
+    border-radius: 8px;
+    
