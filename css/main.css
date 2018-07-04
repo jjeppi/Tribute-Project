@@ -8,26 +8,13 @@ body {
 .float-right {
     float: right;
   }
-  .float-left {
-      float: left;
-    }
-}
 body {
     margin: 0;
     padding: 0;
   }
   .header {
-    background-position: center;
-    background-size: cover;
     width: 100%; height: 250px;
 }​
-/* #banner {
-    background-image: url(../images/banner.jpg);
-    background-position: center;
-    background-size: cover;
-    width: 100%; height: 225px;
-    padding-top: 20px;
-    } */
     a {
   outline: none;
   text-decoration: none;
@@ -59,6 +46,7 @@ a:hover {
       padding-top: 100px;
       margin: 0 auto;
       width: 70%;
+      padding-bottom: 80px;
     }
     h3 {
       color: MidnightBlue;
@@ -72,7 +60,6 @@ a:hover {
     }
 h2 {
   color: MidnightBlue;
-  font-family: 'Lato', sans-serif;
   font-family: 'Courgette', cursive;
   text-align: center;
   font-size: 70px;
@@ -87,7 +74,6 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     max-width: 50%;
-    max-height: 50%;
     border-radius: 100px;
     padding-top: 20px;
 }
